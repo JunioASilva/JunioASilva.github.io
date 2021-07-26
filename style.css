@@ -1,0 +1,59 @@
+body {
+    background-color: #C5CAE9;
+    font-family: sans-serif;
+    font-size: large;
+    margin-left: 20px;
+    }
+
+.button{
+padding: 5px 7px;
+background-color: green;
+text-decoration: none;
+border-radius: 50px;
+color: black;
+
+}
+
+h1{
+  font-size: 2em;
+  font-family: sans-serif;
+  
+}
+div h1{
+    text-align: center;
+}
+div #Junio {
+    padding: 2px;
+    background-color: blue;
+    border-radius: 100px;
+    top: 800px;
+    display: block;
+    top: 100px;
+}
+
+.list{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  
+}
+.list1{
+  color: red;
+}
+.list2{
+  color: blue;
+}
+.list3{
+  color: purple;
+}
+ol{
+  list-style-position: inside;
+}
+
+.destaque{
+  color: red;
+  text-decoration-line: underline;
+
+}
+a:hover { 
+    font-weight: bold;
+}
